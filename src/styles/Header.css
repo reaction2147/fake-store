@@ -1,0 +1,22 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(46, 45, 45);
+    color: white;
+    
+}
+
+.menu-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 25%;
+}
+
+.menu-style {
+    text-decoration: none;
+    color: white;
+}
